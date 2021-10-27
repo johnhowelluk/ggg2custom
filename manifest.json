@@ -5,6 +5,7 @@
   "documentation": "https://www.home-assistant.io/integrations/gogogate2",
   "requirements": ["ismartgate==4.0.4"],
   "codeowners": ["@vangorra", "@bdraco"],
+  "version": "1.0",
   "homekit": {
     "models": ["iSmartGate"]
   },
